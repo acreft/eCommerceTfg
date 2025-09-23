@@ -81,7 +81,7 @@ Render.com apaga o pone en un estado de hibernación las aplicaciones que no han
 
 ## 📸 Capturas de Pantalla
 
-![Captura de pantalla de la página principal](doc/img/home.png)
+![Captura de pantalla de la página principal](doc/ip.png)
 
 ## 🤝 Contribución
 
